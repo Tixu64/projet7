@@ -1,0 +1,14 @@
+dash
+dash-core-components
+dash-html-components
+dash-renderer
+dash-table
+gunicorn
+pandas
+numpy
+plotly
+matplotlib
+ipython
+shap==0.38.1
+scikit-learn
+lightgbm
